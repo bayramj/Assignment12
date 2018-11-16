@@ -1,0 +1,30 @@
+body {
+	background: #6ECFAA;
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+h1 {
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+
+button {
+	padding: 15px;
+	border: white solid 3px;
+	border-radius: 1px;
+	width: auto;
+	margin: 20px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-style: oblique;
+}
+#currentTemp{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size:30px;
+	margin-left: auto;
+	margin-right:auto;
+	text-align:center;
+}
+button:hover {
+	cursor: pointer;
+	background: #D56668;
+}
